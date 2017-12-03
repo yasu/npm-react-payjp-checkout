@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yasu/npm-react-payjp-checkout.git"
+    "url": "git+https://github.com/yasu/types-react-payjp-checkout.git"
   },
   "author": "Yasuhiro Manai <yasuhiro.manai@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yasu/npm-react-payjp-checkout/issues"
+    "url": "https://github.com/yasu/types-react-payjp-checkout/issues"
   },
-  "homepage": "https://github.com/yasu/npm-react-payjp-checkout#readme"
+  "homepage": "https://github.com/yasu/types-react-payjp-checkout#readme"
 }
