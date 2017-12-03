@@ -1,0 +1,19 @@
+{
+  "name": "@types/react-payjp-checkout",
+  "version": "0.1.0",
+  "description": "TypeScript's type definition for react-payjp-checkout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasu/npm-react-payjp-checkout.git"
+  },
+  "author": "Yasuhiro Manai <yasuhiro.manai@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yasu/npm-react-payjp-checkout/issues"
+  },
+  "homepage": "https://github.com/yasu/npm-react-payjp-checkout#readme"
+}
